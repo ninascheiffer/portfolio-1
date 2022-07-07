@@ -1,5 +1,5 @@
 .formacao {
-  background: #141414;
+  background: #4b204b;
   color: #ffffff;
 }
 
@@ -25,7 +25,7 @@
 }
 
 .formacao .subtitulo {
-  color: #000;
+  color: #341933;
   max-width: 5ch;
 }
 
@@ -50,7 +50,7 @@
 
 .faculdade {
   flex: 1;
-  background: #000;
+  background: #1e111d;
   padding: 20px;
   border-radius: 4px;
   display: flex;
