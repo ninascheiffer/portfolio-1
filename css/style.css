@@ -5,7 +5,14 @@
 @import "./formacao.css";
 @import "./footer.css";
 
+.anime{
+    opacity: 0;
+}
 
+.anime-init{
+    opacity: 1;
+    transition: 0.3s all ease;
+}
 
 
 
